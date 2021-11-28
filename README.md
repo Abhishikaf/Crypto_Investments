@@ -24,11 +24,11 @@ This visualization make Ethlend and Celsius-degree token stand out as they have 
 ---
 ### Cluster Cryptocurrencies with K-means Using the Original Data
 
-![Scatter plot of the clusters for original scaled data](images/scatter_plot_original.png)
+![Scatter plot of the clusters for original scaled data](images/Scatter_plot_original.png)
 
 The 4 clusters do not make sense in this scatter plot, but we can see like we had seen in the earlier section, Ethlend and Celsius-degree token are placed in their own different clusters. A better visualisation of the clusters can be seen in the following visualization:
 
-![Scatter plot of the clusters for original scaled data](images/scatter_plot_original_1y.png)
+![Scatter plot of the clusters for original scaled data](images/Scatter_plot_original_1y.png)
 
 Cluster 0 in blue, shows cryptocurrencies with higher 7d percentage change, but a low 1 year change.<br>
 Cluster 1 in red, shows Ethlend, which has a negative 7 day percentage change, but ther highest 1 year change <br>
