@@ -57,7 +57,7 @@ Cluster 3 in green, shows the cryptocurrencies with lower 7d percentage change, 
 ---
 ### Cluster Cryptocurrencies with K-means Using the PCA Data
 
-![Scatter plot of the clusters for PCA data](images/scatter_plot_original_pca.png)
+![Scatter plot of the clusters for PCA data](images/Scatter_plot_original_pca.png)
 
 ---
 ### Visualize and Compare the Results
